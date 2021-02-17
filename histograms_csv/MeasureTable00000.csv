@@ -1,0 +1,4 @@
+﻿Measure,P1:ampl(C4),P2:mean(F2),P3:min(C2),P4:mean(F3),P5:ampl(C3),P6:x@max(F1),P7:max(F1),P8:width(C2),
+Unit,V,,,,,,,s,
+value,616e-3,,,,,,,0,
+status,Not a pulse.,,,,,,,"Invalid parameter, Too little data, No data available.",
